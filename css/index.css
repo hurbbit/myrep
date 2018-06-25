@@ -735,3 +735,14 @@ ul li{
 .foot-form .btn:active {
   opacity: 0.8;
 }
+
+.container {
+  text-align: center;
+}
+
+.container img {
+  width: 100%;
+  border: none;
+  display: block;
+  margin: 0 auto;
+}
